@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sree2077
+- 👋 Hi, I’m SREERESH
 - 👀 I’m interested in DATA 
 - 🌱 I’m currently learning MACHINE LEARNING
 - 💞️ I’m looking to collaborate on MAD DATA FINDERS.
